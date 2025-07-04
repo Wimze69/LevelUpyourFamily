@@ -1,0 +1,26 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.aab
+*.ap_
+*.dex
+*.class
+/build/
+/build-attribution/
+*.iws
+# Loggfiler
+/app/google-services.json
+/app/fabric.properties
+/app/crashlytics.properties

@@ -1,0 +1,5 @@
+<resources>
+    <string name="default_web_client_id">781938623716-o020s40ra5g2h5nae498n7ibd0um4fb6.apps.googleusercontent.com</string>
+    <string name="app_name">ChoreQuest</string>
+    <string name="sign_out_description">Sign out</string>
+</resources>
